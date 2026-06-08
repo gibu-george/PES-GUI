@@ -1,4 +1,4 @@
-# PES-GUI
+# PES-GUI.v2 (pes_gui_dynamic.py)
 Reaction-Energy-Profile-Builder
 
 A graphical user interface for generating reaction energy profile diagrams commonly used in computational chemistry.

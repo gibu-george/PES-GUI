@@ -3,19 +3,25 @@ Reaction-Energy-Profile-Builder
 
 A graphical user interface for generating reaction energy profile diagrams commonly used in computational chemistry.
 
-Features
+# Features
+
 Unlimited reaction pathways
-/n/Delete pathways dynamically
+
+Delete pathways dynamically
+
 Custom colors
+
 Notes and legends
+
 Missing points using x
-Save PNG
-Save PDF
+
+Save as PNG and PDF files
+
 Save and load projects (.json)
-Energy label display
+
 Interactive plotting
 
-Run
+# Run
 python pes_gui_dynamic.py
 Input format
 

@@ -5,7 +5,7 @@ A graphical user interface for generating reaction energy profile diagrams commo
 
 Features
 Unlimited reaction pathways
-Add/Delete pathways dynamically
+/n/Delete pathways dynamically
 Custom colors
 Notes and legends
 Missing points using x
